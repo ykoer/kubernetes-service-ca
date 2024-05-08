@@ -1,0 +1,1 @@
+# Openshift Service CA Operator Deployment for Kubernetes
